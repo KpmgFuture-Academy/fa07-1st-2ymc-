@@ -1,0 +1,14 @@
+{
+  "doc_type": "수리견적서",
+  "confidence": 0.95,
+  "key_fields": {
+    "name": "김민수",
+    "dob": "",
+    "date": "2025. 11.04",
+    "amount": "159,500",
+    "policy_number": "",
+    "hospital": "",
+    "account": "계좌이체"
+  },
+  "rationale": "문서의 제목이 '수리 견적서'이며, 고객명과 작성일자, 금액 정보가 포함되어 있습니다."
+}

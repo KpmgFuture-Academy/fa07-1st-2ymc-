@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+requests
+pillow
+opencv-python
+openai>=1.42.0
+pandas

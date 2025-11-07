@@ -1,0 +1,14 @@
+{
+  "doc_type": "보험금청구서",
+  "confidence": 0.95,
+  "key_fields": {
+    "name": "김민수",
+    "dob": "",
+    "date": "",
+    "amount": "",
+    "policy_number": "",
+    "hospital": "",
+    "account": ""
+  },
+  "rationale": "문서 내용이 보험금 청구서에 해당하며, 보험계약자 및 피보험자의 인적사항이 포함되어 있음."
+}

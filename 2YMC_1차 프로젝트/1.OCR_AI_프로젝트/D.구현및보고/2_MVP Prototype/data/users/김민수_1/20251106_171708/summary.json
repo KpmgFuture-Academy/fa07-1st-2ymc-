@@ -1,0 +1,59 @@
+[
+  {
+    "file": "1_김민수.pdf",
+    "ocr_text_path": "1_김민수.ocr_text.txt",
+    "classification_path": "1_김민수.classification.json",
+    "classification": {
+      "doc_type": "처방전",
+      "confidence": 0.9,
+      "key_fields": {
+        "name": "김민수",
+        "dob": "1995-03-15",
+        "date": "2024-11-07",
+        "amount": "",
+        "policy_number": "",
+        "hospital": "",
+        "account": ""
+      },
+      "rationale": "문서 내용에 처방전 관련 정보가 포함되어 있으며, 환자 이름과 생년월일, 발급일이 명시되어 있습니다."
+    }
+  },
+  {
+    "file": "KB손해보험 보험금청구서1.pdf",
+    "ocr_text_path": "KB손해보험 보험금청구서1.ocr_text.txt",
+    "classification_path": "KB손해보험 보험금청구서1.classification.json",
+    "classification": {
+      "doc_type": "보험금청구서",
+      "confidence": 0.95,
+      "key_fields": {
+        "name": "김민수",
+        "dob": "",
+        "date": "",
+        "amount": "",
+        "policy_number": "",
+        "hospital": "",
+        "account": ""
+      },
+      "rationale": "문서 내용이 보험금 청구서에 해당하며, 보험계약자 및 피보험자의 인적사항이 포함되어 있음."
+    }
+  },
+  {
+    "file": "진단서_001_김민수.docx",
+    "ocr_text_path": "진단서_001_김민수.ocr_text.txt",
+    "classification_path": "진단서_001_김민수.classification.json",
+    "classification": {
+      "doc_type": "진단서",
+      "confidence": 0.95,
+      "key_fields": {
+        "name": "김민수",
+        "dob": "",
+        "date": "",
+        "amount": "",
+        "policy_number": "",
+        "hospital": "",
+        "account": ""
+      },
+      "rationale": "문서에 진단서라는 명시가 있으며, 환자의 이름과 증상, 치료 경과가 포함되어 있어 진단서로 분류됨."
+    }
+  }
+]
