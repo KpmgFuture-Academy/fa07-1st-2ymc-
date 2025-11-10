@@ -10,7 +10,7 @@
 - 목표: **OCR/AI 활용 서비스 기획 및 MVP 설계**
   
 ### 시각적 자료
-![프로젝트 기획서 다이어그램] <img width="854" height="423" alt="image" src="https://github.com/user-attachments/assets/583c6309-8e9d-45a7-bbd2-1fd5b75ec7fe" />
+[프로젝트 기획서 다이어그램] <img width="854" height="423" alt="image" src="https://github.com/user-attachments/assets/583c6309-8e9d-45a7-bbd2-1fd5b75ec7fe" />
 <img width="1173" height="774" alt="image" src="https://github.com/user-attachments/assets/687984f0-b591-4425-b761-706349fdf20b" />
 
 
