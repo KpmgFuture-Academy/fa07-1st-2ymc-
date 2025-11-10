@@ -33,11 +33,11 @@
 1.2. 데이터 요구사항 정의
 <img width="1168" height="785" alt="image" src="https://github.com/user-attachments/assets/d14c3a1f-5b7b-4c74-af99-06b5f239b208" />
 
-### 2. 데이터 수집 및 준비
+### 2. 사전 리서치 
 <img width="1170" height="788" alt="image" src="https://github.com/user-attachments/assets/e5abc56a-e464-45dd-8965-0cf8828ed516" />
 
 
-### 3. 데이터 분석 및 모델링
+### 3. 기술검토 및 MVP 구현
 <img width="1164" height="785" alt="image" src="https://github.com/user-attachments/assets/85e8b9e6-bdf7-4cc7-a585-3b59fa512708" />
 <img width="1170" height="780" alt="image" src="https://github.com/user-attachments/assets/1f330611-0098-4854-a031-ed17e701dbf2" />
 <img width="1169" height="786" alt="image" src="https://github.com/user-attachments/assets/bfad6d0b-2ebd-4bb7-b14e-775733208e2a" />
