@@ -30,7 +30,7 @@
 <img width="1169" height="781" alt="image" src="https://github.com/user-attachments/assets/78289bfe-f260-4592-bb1d-87594605eef3" />
 <img width="1165" height="805" alt="image" src="https://github.com/user-attachments/assets/e6700cf1-4221-46c8-90e7-592880e3392a" />
 
-1.2. 데이터 요구사항 정의
+1.2. 요구사항 정의
 <img width="1168" height="785" alt="image" src="https://github.com/user-attachments/assets/d14c3a1f-5b7b-4c74-af99-06b5f239b208" />
 
 ### 2. 사전 리서치 
