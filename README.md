@@ -1,5 +1,5 @@
 # fa07-1st-2ymc-
-- KPMG Future Academy 7기 2YMC팀 첫 번째 프로젝트 레포지토리입니다.
+- KPMG Future Academy 7기, 2YMC팀의 첫 번째 프로젝트 레포지토리입니다.
 
 -------------------
 # 프로젝트 기획서
@@ -63,6 +63,7 @@
 
 ## 1. 시스템 아키텍처
 <img width="1173" height="778" alt="image" src="https://github.com/user-attachments/assets/0d77fb31-8f4c-4678-8f36-e08b8afa1397" />
+
 
 ## 2. 기술 스택
 - **OCR(텍스트 추출)**: Upstage OCR(Document Parse) API 활용
