@@ -16,7 +16,7 @@
 
 
 ## 2. 프로젝트 일정 (예시 Gantt 차트)
-![프로젝트 일정] <img width="1414" height="411" alt="image" src="https://github.com/user-attachments/assets/f24e2284-b8dd-4bdf-b6c9-c910eca1997c" />
+[프로젝트 일정] <img width="1414" height="411" alt="image" src="https://github.com/user-attachments/assets/f24e2284-b8dd-4bdf-b6c9-c910eca1997c" />
 
   --------------------------
 
