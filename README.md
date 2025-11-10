@@ -1,5 +1,4 @@
 # fa07-1st-2ymc-
-# Tem_fa00-1st-NAME
 - KPMG Future Academy 7기 2YMC팀 첫 번째 프로젝트 레포지토리입니다.
 
 -------------------
